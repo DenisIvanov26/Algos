@@ -1,0 +1,5 @@
+vectorbt
+ccxt
+pandas_ta
+ta
+jupyterlab
